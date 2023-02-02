@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
-
 int main() {
-int t,n,x,y;
+int t,x;
 cin>>t;
 while(t--)
 {
@@ -12,7 +11,8 @@ if(x==6)
     cout<<"YES"<<endl;
 }
 else
-{cout<<"NO"<<endl;
+{
+    cout<<"NO"<<endl;
 }
 }
 	return 0;

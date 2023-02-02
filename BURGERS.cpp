@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-int t,A,B;
-cin>>t;
-while(t--)
+int T,A,B;
+cin>>T;
+while(T--)
 {
 cin>>A>>B;
 if(A<B)
