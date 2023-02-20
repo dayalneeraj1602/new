@@ -37,5 +37,7 @@
     "*.embeddedhtml": "html",
     "iostream": "cpp",
     "string": "cpp"
-  }
+  },
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "liveshare.accessibility.soundsEnabled": false
 }
